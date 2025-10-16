@@ -62,7 +62,7 @@ $pitchset Arcanum/Restoration/Rage 0.7
 
 Arcanum/Restoration/Transfusion "Sounds/Restoration/Transfusion.wav"
 Arcanum/Restoration/Resurrect "Sounds/Restoration/Resurrect.wav"
-Arcanum/Restoration/SoulGuaBD "Sounds/Restoration/SoulGuaBD.wav"
+Arcanum/Restoration/SoulGuard "Sounds/Restoration/SoulGuard.wav"
 Arcanum/Restoration/Revitalization "Sounds/Restoration/Revitalization.wav"
 
 Arcanum/Alteration/FarReach "Sounds/Alteration/FarReach.wav"
